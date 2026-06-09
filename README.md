@@ -17,4 +17,4 @@ When I'm not in the engineering labs or hanging out with the IEEE crew on campus
 * **Protocols & Hardware:** I2C, SPI, UART, Multi-layer PCB Layout
 
 ### 🚀 Featured Project
-* **[ESP32-S3 Sensor Hub / MRCU Rev A](https://github.com/bmomofoma/ESP32-Sensor-Interface)):** A 4-layer sensor hub designed to aggregate local environmental and inertial data. It maps out a unified I2C bus for five distinct onboard sensors, handles hardware-level boot constraints, and integrates native USB-JTAG debugging.
+* **[ESP32-S3 Sensor Hub / MRCU Rev A](https://github.com/bmomofoma/ESP32-Sensor-Interface):** A 4-layer sensor hub designed to aggregate local environmental and inertial data. It maps out a unified I2C bus for five distinct onboard sensors, handles hardware-level boot constraints, and integrates native USB-JTAG debugging.
