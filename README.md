@@ -18,3 +18,8 @@ When I'm not in the engineering labs or hanging out with the IEEE crew on campus
 
 ### 🚀 Featured Project
 * **[ESP32-S3 Sensor Hub / MRCU Rev A](https://github.com/bmomofoma/ESP32-Sensor-Interface):** A 4-layer sensor hub designed to aggregate local environmental and inertial data. It maps out a unified I2C bus for five distinct onboard sensors, handles hardware-level boot constraints, and integrates native USB-JTAG debugging.
+
+### ⚙️ Digital Hardware IP (SystemVerilog)
+
+* **[Async FIFO Buffer with Safe Clock Domain Crossing](https://github.com/bmomofoma/Async-FIFO):** Designed a parameterized dual-clock FIFO architecture for unsynchronized data transfer. Implemented Gray code pointer conversion and 2-stage flip-flop synchronizers to mitigate metastability and ensure accurate full/empty flag generation.
+* **[OLED SPI Master Engine (Mode 0)](https://github.com/bmomofoma/SPI_Controller_Engine):** Architected a cycle-accurate, 3-wire SPI Master FSM from scratch. Optimized logic footprint by explicitly removing MISO lines for write-only displays, and engineered a parameterized clock divider to step 100MHz down to a display-safe 5MHz strobe.
